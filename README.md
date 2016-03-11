@@ -1,6 +1,6 @@
 # Python PyTest QA Automation Demo
 
-Use py.test to do QA automation test. Detailed please see `pytest for qa automation.pptx` which is under `resources` folder.
+Use py.test to do QA automation test. Detailed please see **pytest for qa automation.pptx** which is under **resources** folder.
 
 # Framework
 
